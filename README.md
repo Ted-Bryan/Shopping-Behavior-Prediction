@@ -20,4 +20,3 @@ Successfully developed a model that **effectively distinguishes** between buying
 - Python 🐍
 - pandas 📊
 - scikit-learn 🤖
-- Jupyter Notebook 📓
