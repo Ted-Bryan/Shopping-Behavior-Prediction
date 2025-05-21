@@ -1,7 +1,23 @@
-# Shopping Behavior Prediction
+# 🛒 Shopping Behavior Prediction
 
-Developed a machine learning model to predict online shopping behaviors. The objective was to determine whether a user would complete a purchase based on their browsing session data. 
+## 🎯 Objective  
+Predict whether a user would complete a purchase based on their **online browsing session data**.
 
-The k-Nearest Neighbors (k-NN) algorithm effectively distinguishied between purchasing and non-purchasing sessions. 
+## 🧠 Approach  
+Implemented the **k-Nearest Neighbors (k-NN)** algorithm to classify sessions as:  
+- ✅ **Purchasing**  
+- ❌ **Non-purchasing**
 
-This project honed my skills in data preprocessing, feature selection, and the practical application of k-NN for classification tasks.
+## 🔧 Key Contributions  
+- 🧹 **Data Preprocessing**  
+- 🧬 **Feature Selection**  
+- 🤖 **Applied k-NN for Classification**
+
+## 🚀 Outcome  
+Successfully developed a model that **effectively distinguishes** between buying and non-buying behavior, strengthening my machine learning skills in real-world contexts.
+
+## 🛠️ Toolbox
+- Python 🐍
+- pandas 📊
+- scikit-learn 🤖
+- Jupyter Notebook 📓
